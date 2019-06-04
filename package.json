@@ -1,6 +1,6 @@
 {
   "name": "react-chartjs-2-update",
-  "version": "2.8",
+  "version": "2.7.4",
   "description": "react-chartjs-2-update",
   "main": "lib/index.js",
   "module": "es/index.js",
